@@ -17,6 +17,8 @@ There is an example with alert:
 
 ![image](https://github.com/user-attachments/assets/1559d239-ba04-4621-981a-ec01066c901e)
 
+The login credentials are admin/admin123.
+
 When you enter the system,click 'Reports', and after that click on "Candidates Report".
 
 ![image-20240928181844675](https://github.com/user-attachments/assets/513d2455-b256-42e8-b8ae-68f87af9c8f4)
